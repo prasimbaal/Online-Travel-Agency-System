@@ -1,11 +1,11 @@
 <div class="footer">
             	<ul>
                     <li><a href="about.php" title="About">About</a></li>
-            		<li><a href="services.php" title="Services">Services</a></li>
-            		<li><a href="packages.php" title="Packages">Packages</a></li>
+            		<li><a href="" title="Services">Services</a></li>
+            		<li><a href="" title="Packages">Packages</a></li>
             		
                     <li><a href="javascript:;" title="Blog">Blog</a></li>
-            		<li><a href="contact.php" title="Contact">Contact</a></li>
+            		<li><a href="" title="Contact">Contact</a></li>
                 </ul>
               <div class="col first">
         	<a href="index.html"><img src="media/logo-small.png" alt="Shirazi Travels & Tours" /></a><br /><br />
